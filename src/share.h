@@ -1,4 +1,4 @@
-/*	@(#)Copyright (C) H.Shirouzu 2013-2017   share.h	Ver4.50 */
+﻿/*	@(#)Copyright (C) H.Shirouzu 2013-2017   share.h	Ver4.50 */
 /* ========================================================================
 	Project  Name			: IP Messenger for Win32
 	Module Name				: File Sharing
